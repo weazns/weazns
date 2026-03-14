@@ -38,8 +38,3 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=weazns&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true&font_color=ffffff" />
 </p>
 
-# ・ Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weazns/weazns/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weazns/weazns/output/github-contribution-grid-snake.svg">
-</picture>
