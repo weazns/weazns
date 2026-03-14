@@ -34,5 +34,5 @@
 </p>
 
 <div align="center">
-  <img src="https://lanyard.kyrie25.me/api/852629327891660881?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=ff0000&imgStyle=square&imgBorderRadius=16px&&bg=000000&idleMessage=Monitoring%20the%20shadows..." width="48%">
+  <img src="https://lanyard.kyrie25.me/api/852629327891660881?borderRadius=10px&idleMessage=System%20Idle...&bg=00000000" />
 </div>
