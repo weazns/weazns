@@ -13,11 +13,9 @@
     <a href="https://discord.com/users/372377131432411147" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=FF0000"></a>
 </div>
 
-```js
-const identity = {
-    user: "weazns",
-    role: "Security Researcher",
-    status: "Exploring the void",
-    motto: "In code we trust"
-};
-// Initializing system...
+{
+  "alias": "weazns",
+  "specialization": "cyber_security",
+  "status": "online",
+  "location": "0.0.0.0"
+}
