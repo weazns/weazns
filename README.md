@@ -37,3 +37,8 @@
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=weazns&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true&font_color=ffffff" />
 </p>
+<div align="center">
+  <a href="https://discord.com/users/852629327891660881">
+    <img src="https://lanyard.kyrie25.me/api/852629327891660881?bg=00000000&borderRadius=10px&idleMessage=Monitoring%20the%20shadows...&waveColor=ff0000" alt="Discord Status" />
+  </a>
+</div>
