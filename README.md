@@ -22,7 +22,7 @@
 <div align="center">
 <img src="https://www.google.com/search?q=https://lanyard.kyrie25.me/api/DISCORD_ID%3Fdecoration%3Dtrue%26useDisplayName%3Dtrue%26animationDuration%3D2s%26waveColor%3Dff0000%26imgStyle%3Dsquare%26imgBorderRadius%3D16px%26%26bg%3D000000%26idleMessage%3DOffline" width="48%" style="vertical-align: top;">
 </div>
-
+```
 ・ Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
