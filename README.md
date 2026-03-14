@@ -1,16 +1,20 @@
-## Hi there 👋
+# <p align="center"> [ WEAZNS ] </p>
 
-<!--
-**weazns/weazns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <code>chmod +x weazns && ./run</code>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/image?type=glass&color=red&height=150&section=header&text=weazns&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👤 Identity
+```javascript
+const weazns = {
+    role: "Security Researcher & Developer",
+    focus: ["Web Security", "Exploit Development", "UI/UX"],
+    os: "Arch Linux / MacOS",
+    status: "Active"
+};
