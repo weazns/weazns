@@ -33,3 +33,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
+<div align="center">
+  <img src="https://lanyard.kyrie25.me/api/852629327891660881?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=ff0000&imgStyle=square&imgBorderRadius=16px&&bg=000000&idleMessage=Monitoring%20the%20shadows..." width="48%">
+</div>
