@@ -7,10 +7,10 @@
 </div>
 
 <div align="center">
-    <a href="https://guns.lol/weazns" target="_blank"><img src="https://img.shields.io/badge/GUNS.LOL-000000.svg?&style=for-the-badge&logo=target&logoColor=white&labelColor=FF0000"></a>
+    <a href="https://guns.lol/youtube" target="_blank"><img src="https://img.shields.io/badge/GUNS.LOL-000000.svg?&style=for-the-badge&logo=target&logoColor=white&labelColor=FF0000"></a>
     <a href="https://instagram.com/weazns_insta" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF0000"></a>
     <a href="https://www.google.com/search?q=https://open.spotify.com/user/weazns" target="_blank"><img src="https://img.shields.io/badge/Spotify-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF0000"></a>
-    <a href="https://discord.com/users/DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=FF0000"></a>
+    <a href="https://discord.com/users/372377131432411147" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=FF0000"></a>
 </div>
 
 ```js
