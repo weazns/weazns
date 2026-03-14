@@ -38,3 +38,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=weazns&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true&font_color=ffffff" />
 </p>
 
+<div align="center">
+<img src="https://novatorem-spotify-readme.vercel.app/api/status?user=852629327891660881&theme=dark&color=ff0000" alt="Spotify" />
+</div>
