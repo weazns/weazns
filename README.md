@@ -9,7 +9,7 @@
 <div align="center">
     <a href="https://guns.lol/youtube" target="_blank"><img src="https://img.shields.io/badge/GUNS.LOL-000000.svg?&style=for-the-badge&logo=target&logoColor=white&labelColor=FF0000"></a>
     <a href="https://instagram.com/weazns.py" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF0000"></a>
-    <a href="(https://open.spotify.com/user/31lnx5zldbf4fexkrivcwdtmdae4)" target="_blank"><img src="https://img.shields.io/badge/Spotify-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF0000"></a>
+    <a href="https://open.spotify.com/user/31lnx5zldbf4fexkrivcwdtmdae4" target="_blank"><img src="https://img.shields.io/badge/Spotify-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF0000"></a>
     <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=FF0000"></a>
 </div>
 
