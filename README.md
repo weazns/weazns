@@ -16,7 +16,7 @@
 ```json
 {
   "alias": "weazns",
-  "specialization": "cyber_security",
+  ":D": "hi stalker",
   "status": "online",
   "location": "0.0.0.0"
 }
