@@ -16,9 +16,9 @@
 ```json
 {
   "alias": "weazns",
-  ":D": "hi stalker",
   "status": "online",
   "location": "0.0.0.0"
+  "msg": "hi stalker :)",
 }
 ```
 # ・ Languages and Tools:
